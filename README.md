@@ -1,6 +1,8 @@
 # To install and run Cryptify:
 
-apt install git python
+apt install git 
+
+apt install python python3
 
 git clone https://github.com/Ladder521/Cryptify.git
 
