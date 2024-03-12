@@ -1,4 +1,4 @@
-#To install and run Cryptify:
+# To install and run Cryptify:
 
 apt install git python
 
@@ -10,7 +10,7 @@ pip3 install -r requirements.txt
 
 python3 crypt.py
 
-#Python packages used in Cryptify are:
+# Python packages used in Cryptify are:
 
 math, time, os, string, colorama, pygame, random
 
