@@ -14,4 +14,4 @@ python3 crypt.py
 
 math, time, os, string, colorama, pygame, random
 
-If pygame can't be installed using pip install it by apt install python-pygame in ur terminal.
+If pygame can't be installed using pip install it by ' apt install python-pygame ' in ur terminal.
