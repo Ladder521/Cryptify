@@ -1,0 +1,7 @@
+colorama
+pygame
+random
+string
+math
+time
+os
