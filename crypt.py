@@ -38,7 +38,7 @@ print(Fore.MAGENTA + Back.WHITE + """
                          (                -;    '-'
                           `-----------.___~;
 
-                                  PINKY Pink
+                                    Cryptify
 
                                    LADDER521
           """ + Style.RESET_ALL)
