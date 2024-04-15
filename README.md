@@ -1,3 +1,4 @@
+crypti.py ois the updated one
 # To install and run Cryptify:
 
 apt install git 
