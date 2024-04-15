@@ -1,5 +1,5 @@
 import os, time, math, random, string, pygame
-from colorama import Fore, Style, Back, init
+from colorama import Fore, Style, init
 
 #Initialize colorama
 init()
